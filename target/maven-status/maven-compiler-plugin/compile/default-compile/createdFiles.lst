@@ -1,0 +1,7 @@
+com\kenpino\practice\domain\Character$CharacterClass.class
+com\kenpino\practice\domain\Character$CharacterRace.class
+com\kenpino\practice\CharacterResource.class
+com\kenpino\practice\domain\Character.class
+com\kenpino\practice\domain\Character$CharacterGender.class
+com\kenpino\practice\service\CharacterService.class
+com\kenpino\practice\Application.class
