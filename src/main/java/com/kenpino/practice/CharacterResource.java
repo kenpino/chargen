@@ -13,7 +13,7 @@ import java.util.List;
 @RequestMapping(path = "/characters")
 public class CharacterResource {
 
-    @Autowired
+//    @Autowired
     CharacterService characterService = new CharacterService();
 
     @RequestMapping(path = "/test")
@@ -21,9 +21,14 @@ public class CharacterResource {
         return "Hello";
     }
 
-    @RequestMapping(path = "all", method = RequestMethod.GET)
+    @RequestMapping(path = "/all", method = RequestMethod.GET)
     public List<Character> getAllCharacters(){
         return characterService.getAllCharacters();
     }
+
+//    @RequestMapping()
+//    public void addCharacter(){
+//        characterService.addCharacter(new Character(String name, int age));
+//    }
 
 }

@@ -1,4 +1,5 @@
-C:\Users\kpino\IdeaProjects\chargen03\src\main\java\com\kenpino\practice\Application.java
-C:\Users\kpino\IdeaProjects\chargen03\src\main\java\com\kenpino\practice\CharacterResource.java
-C:\Users\kpino\IdeaProjects\chargen03\src\main\java\com\kenpino\practice\domain\Character.java
-C:\Users\kpino\IdeaProjects\chargen03\src\main\java\com\kenpino\practice\service\CharacterService.java
+/home/kpino/IdeaProjects/chargen/src/main/java/com/kenpino/practice/service/CharacterService.java
+/home/kpino/IdeaProjects/chargen/src/main/java/com/kenpino/practice/Application.java
+/home/kpino/IdeaProjects/chargen/src/main/java/com/kenpino/practice/domain/Character.java
+/home/kpino/IdeaProjects/chargen/src/main/java/com/kenpino/practice/repository/CharacterRepository.java
+/home/kpino/IdeaProjects/chargen/src/main/java/com/kenpino/practice/CharacterResource.java
